@@ -4,11 +4,11 @@
     "slug": "blogApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/BlogIcon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Designer.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FED581"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
